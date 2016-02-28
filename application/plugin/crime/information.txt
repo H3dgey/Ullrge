@@ -1,0 +1,15 @@
+/------------------/
+PLUGIN INFORMATION
+
+PLUGIN NAME: 	Crime
+DESCRIPTION: 	Allows players to commit crimes. Using energy to commit and recieving experiance in return. Admin section lets admins add, edit 				and delete crimes.
+AUTHOR:			H3dge
+VERSION:		V1.0
+DATE CREATED:	22 Feb 2016
+DATE UPDATED:	No Updates Yet
+PAYMENT:		Free
+/------------------/
+UPDATE / CHANGE LOG
+
+No updates yet
+/------------------/

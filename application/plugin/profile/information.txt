@@ -1,0 +1,15 @@
+/------------------/
+PLUGIN INFORMATION
+
+PLUGIN NAME: 	Profile
+DESCRIPTION: 	Displays users profiles to others users. Allows owner of profile to update specific details.
+AUTHOR:			H3dge
+VERSION:		V1.0
+DATE CREATED:	22 Feb 2016
+DATE UPDATED:	No Updates Yet
+PAYMENT:		Free
+/------------------/
+UPDATE / CHANGE LOG
+
+No updates yet
+/------------------/
